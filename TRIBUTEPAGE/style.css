@@ -1,0 +1,25 @@
+.w{
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*{
+    background-color:#829298;
+}
+
+.a{
+    color:black;
+}
+
+h4{
+    font-size: 24px;
+    text-align: center;
+}
+
+h1{
+    font-size: 39px;
+}
+p{
+    font-size: 25px;
+}
